@@ -12,3 +12,5 @@ These are the buttons you should press to download the dataset, they will be ava
 ### Only the MIND-small dataset is needed so please make sure the correct dataset is used.
 
 
+Note: I include audit_sample.csv in the data/processed folder since it has the manual labeling I did. In a normal scenario this file would be created and the audit would have to be redone by the user running the notebooks.
+
