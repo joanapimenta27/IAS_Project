@@ -3,7 +3,7 @@
 - Dataset **MIND-small** is available in : https://msnews.github.io/
 - After downloading the dataset **MIND-small**, 2 folders should be available (MINDsmall_dev and MINDsmall_train)
 
-- Before running check if your kernel has the necessary installations for the imports used. A way to detect that, is by running the notebook and an error will pop up immediately with the command for the installations that are missing.
+- Before running check if your kernel has the necessary installations for the imports used. A way to detect that, is by running the notebook and an error will pop up immediately with the command for the installations that are missing. You might need to install more things in further notebooks.
 
 ### Only the MIND-small dataset is needed so please make sure the correct dataset is used.
 
