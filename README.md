@@ -1,6 +1,10 @@
 - Please run the notebooks in the correct order from 01 to 08.
 - The dataset is to large to include in github so for testing please download the dataset necessary and add it in a folder called data next to the notebook folder.
 - Dataset **MIND-small** is available in : https://msnews.github.io/
+
+![print of page](Print_for_readme.png)
+These are the buttons you should press to download the dataset, they will be available after you check a box agreeing to terms and conditions.
+
 - After downloading the dataset **MIND-small**, 2 folders should be available (MINDsmall_dev and MINDsmall_train)
 
 - Before running check if your kernel has the necessary installations for the imports used. A way to detect that, is by running the notebook and an error will pop up immediately with the command for the installations that are missing. You might need to install more things in further notebooks.
