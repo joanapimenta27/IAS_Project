@@ -14,3 +14,7 @@ These are the buttons you should press to download the dataset, they will be ava
 
 Note: I include audit_sample.csv in the data/processed folder since it has the manual labeling I did. In a normal scenario this file would be created and the audit would have to be redone by the user running the notebooks.
 
+
+## Report
+
+[![CV Preview](./report_preview.png)](./CV_Report2.pdf)
