@@ -17,4 +17,4 @@ Note: I include audit_sample.csv in the data/processed folder since it has the m
 
 ## Report
 
-[![CV Preview](./report_preview.png)](./Auditing_Political_Exposure_Bias_in_News_Recommendation (final) (3).pdf)
+[![CV Preview](./report_preview.png)](./Auditing_Political_Exposure_Bias_in_News_Recommendation.pdf)
